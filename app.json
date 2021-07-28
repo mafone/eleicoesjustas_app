@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "eleicoesjustas",
+    "slug": "eleicoesjustas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "eleicoesjustas"
+}
